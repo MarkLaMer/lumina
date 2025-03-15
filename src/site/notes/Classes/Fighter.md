@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/fighter/","tags":["Characters"],"created":"2025-01-02T11:24:07.322-05:00","updated":"2025-03-15T04:16:33.066-04:00"}
+{"dg-publish":true,"permalink":"/classes/fighter/","tags":["Characters"],"created":"2025-01-02T11:24:07.322-05:00","updated":"2025-03-15T04:31:17.752-04:00"}
 ---
 
 ![Pasted image 20250313121127.png|right lp|350](/img/user/zRSC/images/Pasted%20image%2020250313121127.png)*Fighters are adventurers because they are so inured to death that they cannot settle down to a normal life.*
@@ -14,7 +14,10 @@
 ### Power Attack
 On your attack, you may choose to Power Attack. Roll 2 damage dice. The weapon breaks.
 ### Magic Swords
-Delivering the killing blow with [[Treasures/Artifacts/Magic Swords\|Magic Swords]] transfers a non-violent supernatural ability that the monster has to the weapon. 
+Delivering the killing blow with [[Treasures/Artifacts/Magic Swords\|Magic Swords]] transfers a non-violent supernatural ability that the monster has to the weapon. Once the blade bonds with the ability, it cannot absorb a new one.
+>[!Example] Example: *Blade of the Basilisk*
+>Absorbed Ability: Petrifying Gaze
+> *The sword gains a reflective sheen. When the wielder brandishes the sword, a creature in sight must succeed a WIL Danger Roll or become petrified for a round.*
 
 # Fighter Talents
 Pick a Talent to unlock/upgrade with every other level (see [[Characters/Advancement\|Advancement]]).
