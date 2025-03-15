@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/creating-a-character/"}
+{"dg-publish":true,"permalink":"/characters/creating-a-character/","created":"2025-01-02T11:24:07.224-05:00","updated":"2025-03-15T03:55:58.587-04:00"}
 ---
 
 

@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/classes/fighter/"}
+{"dg-publish":true,"permalink":"/classes/fighter/","tags":["Characters"],"created":"2025-01-02T11:24:07.322-05:00","updated":"2025-03-15T04:16:33.066-04:00"}
 ---
 
-
-#Characters 
 ![Pasted image 20250313121127.png|right lp|350](/img/user/zRSC/images/Pasted%20image%2020250313121127.png)*Fighters are adventurers because they are so inured to death that they cannot settle down to a normal life.*
 
 >[!Check] XP Based on Class (Optional)

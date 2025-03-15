@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/classes/classes/"}
+{"dg-publish":true,"permalink":"/classes/classes/","tags":["Characters"],"created":"2025-01-02T11:24:07.247-05:00","updated":"2025-03-15T04:16:43.300-04:00"}
 ---
 
-
-#Characters 
 Classes available to players.
 
 ---
