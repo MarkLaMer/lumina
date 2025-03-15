@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/characters/ability-scores/","created":"2025-01-02T11:24:07.067-05:00","updated":"2025-03-15T04:14:25.946-04:00"}
+{"dg-publish":true,"permalink":"/characters/ability-scores/","tags":["Characters","Rules"],"created":"2025-01-02T11:24:07.067-05:00","updated":"2025-03-15T10:18:20.724-04:00"}
 ---
-
-
-#Characters #Rules 
 
 Ability Scores are your skills manifest in danger. 
 
 - **Strength** (STR): Rolled for tests of muscle, stamina and brute force like climbing, lifting gates, bending bars, resisting poisons, etc.
 - **Dexterity** (DEX): Rolled for tests of grace, skulking, balancing and reflexes like dodging, sneaking, balancing, etc.
 - **Willpower** (WIL): Rolled for tests requiring force of mind, discipline and charm like resistance to magic, manipulating spells, encounter's reaction, etc. NPCs also use this stat for morale.
-
 
 ---
 ### Increasing your Ability Scores

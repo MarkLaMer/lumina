@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment-and-services/inventory/","tags":["Equipment"],"created":"2025-01-15T18:17:50.920-05:00","updated":"2025-03-15T04:17:38.278-04:00"}
+{"dg-publish":true,"permalink":"/equipment-and-services/inventory/","tags":["Equipment"],"created":"2025-01-15T18:17:50.920-05:00","updated":"2025-03-15T09:36:59.143-04:00"}
 ---
 
 All [[Equipment & Services/Equipment Details\|equipment]] and conditions are stored in one of ten Inventory slots.
@@ -14,7 +14,7 @@ Conditions are negative effects on your delver. Conditions must be placed in an 
 # Usage
 Most items have three usage dots. When all three dots are marked on an item, it is depleted or destroyed. Usage dots can be cleared from weapons/armour for 1% of the original [[Equipment & Services/Equipment Details\|upkeep level]]cost per dot cleared. 
 - **Weapons/armour/ammunition**: after a fight, roll d6 for each item that was used during the fight. On 4-6, mark usage. 
-- **Torches/lanterns**: mark usage every 6 turns. 
+- **Torches/lanterns**: mark usage every hour (see [[Playing the Game/Delving Rules#Light\|Light Rules]]). 
 - **Rations**: mark usage after a meal. 
 - **Other gear**: if used in a way that could break or deplete it, the GM may ask you to mark usage
 # Encumbrance

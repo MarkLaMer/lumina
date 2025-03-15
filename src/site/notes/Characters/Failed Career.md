@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/characters/failed-career/","created":"2025-01-07T14:36:31.538-05:00","updated":"2025-03-15T04:14:47.180-04:00"}
+{"dg-publish":true,"permalink":"/characters/failed-career/","tags":["Characters"],"created":"2025-01-07T14:36:31.538-05:00","updated":"2025-03-15T10:17:30.379-04:00"}
 ---
 
-
-#Characters 
 ![Pasted image 20250313114515.png](/img/user/zRSC/images/Pasted%20image%2020250313114515.png)
 Here are 36 possible *failed careers* [[Characters/Creating a Character\|your delver]] had prior.
 

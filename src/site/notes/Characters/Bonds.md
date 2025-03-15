@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/characters/bonds/","created":"2025-03-14T01:07:53.221-04:00","updated":"2025-03-15T04:14:37.796-04:00"}
+{"dg-publish":true,"permalink":"/characters/bonds/","tags":["Characters"],"created":"2025-03-14T01:07:53.221-04:00","updated":"2025-03-15T10:17:47.840-04:00"}
 ---
 
-
-#Characters 
 Bonds are a source of roleplay between characters and a main source of meta currency. Bonds are formed between player characters. They are recorded with simple sentences. Your Bonds become charged when *you play them to the hilt* or *when they put you in danger*.
 
 Bonds with other players may be charged to heal [[Playing the Game/Conditions\|Conditions]]. For each charge you burn, you heal 1 [[Playing the Game/Conditions\|Condition]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/magic-user/","tags":["Characters"],"created":"2025-01-02T11:24:07.327-05:00","updated":"2025-03-15T04:16:52.598-04:00"}
+{"dg-publish":true,"permalink":"/classes/magic-user/","tags":["Characters"],"created":"2025-01-02T11:24:07.327-05:00","updated":"2025-03-15T10:20:20.430-04:00"}
 ---
 
 ![Pasted image 20250313115650.png|right lp|360](/img/user/zRSC/images/Pasted%20image%2020250313115650.png)*Sorcery is Chaos using humans as conduits and letting them think they’re in control. Of course, bending reality to your will has a price. One way or another, it's a quick and memorable life. The greybeard wizards are simply the ones who managed to survive for long enough or got caught with an aging curse. Magic-Users are those that have pursued the dark arts and are no longer welcome in society.*
@@ -16,9 +16,10 @@ Magic is unknown, dangerous and inhuman. It is also rare. At 1st level, a Magic-
 ### Spellcaster Sigil
 Every Magic-User has a personal sigil. Enchantments and rituals require the use of a Magic-User's personal sigil. Once gaining levels and renown, the sigil acts as a signature to let other Magic-Users know the castor's work. 
 ### Magister
-Other character classes are unable to cast a spell without a spending the equivalent of a Full [[Playing the Game/Downtime#Rest\|Rest]] doing magical research. During a Watch, as an action, Magic-Users can instruct other adventurers how to cast a specific [[Magic/Spells\|Spell]] as long as it remains in the character's Inventory. 
+Other character classes are unable to cast a spell. During a Watch, as an action, Magic-Users can instruct other adventurers how to cast a specific [[Magic/Spells\|Spell]] as long as it remains in the character's Inventory. 
 ### Magic Missiles
-[[Magic/Spells\|Spells]] are items of locked magical power. Magic-Users can ignore the conditions or effects to cast the Spell by simply using to deal maleficence. As an action, fill-in all usage points of a Spell to [[Playing the Game/Combat#Attacks\|Attack]] with d6 [[Playing the Game/Combat#Blast\|Blast]] damage to anyone within a [[Playing the Game/Distance\|Close]] radius of where the magic missile hits. 
+*[[Magic/Spells\|Spells]] are items of locked magical power. Magic-Users can ignore the conditions or effects to cast the Spell by simply using it to deal pure maleficence.* 
+As an action, fill-in all usage points of a Spell to [[Playing the Game/Combat#Attacks\|Attack]] with d6 [[Playing the Game/Combat#Blast\|Blast]] damage to anyone within a [[Playing the Game/Distance\|Close]] radius of where the magic missile hits. 
 
 # Magic Talents 
 Pick a Talent to unlock/upgrade with every other level (see [[Characters/Advancement\|Advancement]]).

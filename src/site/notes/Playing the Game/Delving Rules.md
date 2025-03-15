@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/playing-the-game/delving-rules/","tags":["Exploration","Rules"],"created":"2025-01-02T11:24:07.875-05:00","updated":"2025-03-15T04:20:24.626-04:00"}
+{"dg-publish":true,"permalink":"/playing-the-game/delving-rules/","tags":["Exploration","Rules"],"created":"2025-01-02T11:24:07.875-05:00","updated":"2025-03-15T09:38:07.790-04:00"}
 ---
 
 ![Pasted image 20250313103341.png|right lp|300](/img/user/zRSC/images/Pasted%20image%2020250313103341.png)Delving is a glorious experience for the sadistic. Journeying into the earth or high above the skies robs you of the simple pleasures of life (time, light, gear and limbs) for the fair trade of gems and coin! 
@@ -27,7 +27,7 @@ Rival adventurers can on things in the dungeon (treasures, magic, secret areas e
 Every moment in the game doesn't have to be accounted for in real time. For example, if the characters want to spend 10 minutes examining a room from top to bottom, the GM and players can agree that time passes. 
 When time passes, the GM and players move any timers down by that amount.
 # Light
-Most light sources last for up to an hour of real time and illuminate a limited area.
+Most light sources last for up to an ***hour of real time*** and illuminate a limited area.
 >[!Warning]
 >New light sources lit while another is already active "ride along" on the current timer. GM disc.
 

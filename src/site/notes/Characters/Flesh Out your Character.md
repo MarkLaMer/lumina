@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/characters/flesh-out-your-character/","created":"2025-01-02T11:24:07.227-05:00","updated":"2025-03-15T04:14:56.485-04:00"}
+{"dg-publish":true,"permalink":"/characters/flesh-out-your-character/","tags":["Characters"],"created":"2025-01-02T11:24:07.227-05:00","updated":"2025-03-15T10:17:37.022-04:00"}
 ---
 
-
-#Characters 
 # Motto
 Your motto is that thing you say ever so often, or patched onto your coat, gear, banner or cloak. 
 Roll or create your own:
