@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/playing-the-game/combat/","tags":["Combat","Rules"],"created":"2025-01-02T11:24:07.851-05:00","updated":"2025-03-15T04:18:40.083-04:00"}
+{"dg-publish":true,"permalink":"/playing-the-game/combat/","tags":["Combat","Rules"],"created":"2025-01-02T11:24:07.851-05:00","updated":"2025-03-15T18:11:33.399-04:00"}
 ---
 
 ***Ordinary hand-to-hand combat is a messy, brutal affair**. Hand-to-hand combat while lying facedown in mud far below the surface, where neither sun nor moon can reach is worse. It is a grisly, merciless, and often entirely desperate situation to find yourself in. Most avoid it at all costs.*
@@ -17,7 +17,7 @@ If you choose to attack a target as your action in a Round of combat, take the d
 4. Subtract the target's Armour score.
 5. The attack causes that much damage.
 >[!Note]
->**Attacks miss on a die roll of 1, otherwise ALWAYS hit.** There are no "to-hit" rolls.
+>Ranged weapons (bows, slings, javelins, etc.) require a DEX Danger roll to deal damage. They also cannot be used in melee (Close range).
 
 Attacks that are ***Impaired***, such as firing through cover, or fighting while grappled, roll d4 Damage regardless of weapon. Similarly, attacks that are ***Enhanced*** by a risky [[Playing the Game/Combat#Gambit\|Gambit]] or a helpless or vulnerable target, roll d12 Damage. 
 # Hit Protection ("HP") and Damage
