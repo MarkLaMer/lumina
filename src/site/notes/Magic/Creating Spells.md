@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magic/creating-spells/","tags":["Magic"],"created":"2025-01-04T15:05:28.204-05:00","updated":"2025-03-15T04:17:58.462-04:00"}
+{"dg-publish":true,"permalink":"/magic/creating-spells/","tags":["Magic"],"created":"2025-01-04T15:05:28.204-05:00","updated":"2025-03-15T04:40:22.860-04:00"}
 ---
 
 To generate a spell, roll d66 on the table below to find the spell formula. One die indicates the row and the other indicates the column.
@@ -12,6 +12,8 @@ To generate a spell, roll d66 on the table below to find the spell formula. One 
 | 4    | Ethereal Effect + Ethereal Form | Physical Effect + Ethereal Element |
 | 5    | Physical Element + Physical Form | Ethereal Effect + Physical Element |
 | 6    | Physical Element + Ethereal Form | Ethereal Effect + Ethereal Element |
+
+
 Once the player has found the spell formula, they roll on the two indicated magic tables to create the spell's name. The GM then tells the player the spell's general effects, based on its name. Offensive spells typically allow their targets a danger roll to resist or avoid the effects. If the spell includes damage, the GM can either set a flat damage rating or rate the damage as a number of dice from 1 to 6.
 
 Players may also suggest uses for the spell outside of the GM's description. If the suggested effect matches the spell's name and the situation very closely, the GM should usually allow it.

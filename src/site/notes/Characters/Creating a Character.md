@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/characters/creating-a-character/","created":"2025-01-02T11:24:07.224-05:00","updated":"2025-03-15T03:55:58.587-04:00"}
+{"dg-publish":true,"permalink":"/characters/creating-a-character/","created":"2025-01-02T11:24:07.224-05:00","updated":"2025-03-15T04:39:14.745-04:00"}
 ---
 
 
 #Characters
 *You have no home.	You have no job.	You have no prospects.*
 ![Pasted image 20241015001301.png|banner](/img/user/zRSC/images/Pasted%20image%2020241015001301.png)
-To create a character, you’ll first need a [character sheet]()—a sheet of paper on which to record all information about the new character. All new delvers start at level 1 with 0 XP. 
+To create a character, you’ll first need a [character sheet](https://drive.google.com/file/d/1wec6VdSv-QKD93J8UrMkgssnu6l0cmcS/view?usp=sharing)—a sheet of paper on which to record all information about the new character. All new delvers start at level 1 with 0 XP. 
 # Ability Scores
 Every delver has three [[Characters/Ability Scores\|Ability Scores]]: Strength, Dexterity and Willpower. These measure their basic strengths and weaknesses. 
 - **STR**: physical strength and resilience. 
