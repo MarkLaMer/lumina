@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment-and-services/inventory/","tags":["Equipment","excalidraw"],"created":"2025-01-15T18:17:50.920-05:00","updated":"2025-03-15T11:12:53.287-04:00"}
+{"dg-publish":true,"permalink":"/equipment-and-services/inventory/","tags":["Equipment","excalidraw"],"created":"2025-01-15T18:17:50.920-05:00","updated":"2025-03-15T11:17:12.102-04:00"}
 ---
 
 All [[Equipment & Services/Equipment Details\|equipment]] and conditions are stored in one of ten Inventory slots.
@@ -20,10 +20,3 @@ Most items have three usage dots. When all three dots are marked on an item, it 
 # Encumbrance
 If supposedly your delver has no more storage locations (even with a sack), you can store items in no slot. 
 While encumbered, your delver cannot run, all [[Playing the Game/Basic Rules#Danger Rolls\|Danger Rolls]] are [[Playing the Game/Basic Rules#Easy & Hard Rolls\|Hard]] and he/she is reduced to 0 **HP**.
-
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
-
-# Excalidraw Data
-
-## Text Elements
