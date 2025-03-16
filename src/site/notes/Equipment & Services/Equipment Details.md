@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment-and-services/equipment-details/","tags":["Equipment"],"created":"2025-01-02T11:24:07.630-05:00","updated":"2025-03-16T01:11:55.661-04:00"}
+{"dg-publish":true,"permalink":"/equipment-and-services/equipment-details/","tags":["Equipment"],"created":"2025-01-02T11:24:07.630-05:00","updated":"2025-03-16T01:18:19.370-04:00"}
 ---
 
 While in the City, determine what you purchase for your next adventure. These prices are abstracted. You don't tally your money for every torch, ration or dagger. Fill your pack with as much as it can hold based on your [[zRSC/The City#Upkeep\|upkeep]] level (or lower): ***impoverished, common, luxurious***.
@@ -165,8 +165,38 @@ Old Toby
 
 | Luxurious Gear                                  |                                                                                                                                                                                                                                                  |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Heavy Armour<br>![[Excalidraw/Heavy Armour\| 300]]         | Armour 2. <br>Prevents 2 damage <br><br>Two body slots <br><br>Breastplate and helm.<br><br>[[Magic/Spells#Iron resists magic\|Iron resists magic]].                                                                                                   |
-| Cannon![[Excalidraw/Cannon\| 600]]                         | Must be rolled around using a pack animal. <br>4d8 damage. Action to aim, action to fire. <br>Two separate characters can do each <br>action on their turn. <br><br>Deals d8 damage to the idiot standing <br>directly behind it when fired.<br> |
+| Heavy Armour<br>
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/excalidraw/heavy-armour/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+</div></div>
+               | Armour 2. <br>Prevents 2 damage <br><br>Two body slots <br><br>Breastplate and helm.<br><br>[[Magic/Spells#Iron resists magic\|Iron resists magic]].                                                                                                   |
+| Cannon
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+</div></div>
+                               | Must be rolled around using a pack animal. <br>4d8 damage. Action to aim, action to fire. <br>Two separate characters can do each <br>action on their turn. <br><br>Deals d8 damage to the idiot standing <br>directly behind it when fired.<br> |
 | Black Powder - "shot"<br>![[Excalidraw/Black Powder\|200]] | Loose bag of black powder. <br>Highly explosive, highly volatile. <br>Entire bag deals 4d4 damage (Blast).                                                                                                                                       |
 | Rocket<br>![[Excalidraw/Rockets\|300]]                     | Can whiz up to [[Playing the Game/Distance\|Far]]-away. <br>Detonates in a loud explosion of colours. <br>Momentarily blinds anyone [[Playing the Game/Distance\|Close]] that fails <br>a DEX Danger Roll. <br><br>Requires a Tinder Box to ignite.                                |
 | Musket<br>![[Excalidraw/Musket\|500]]                      | Two hands, two slots, d8 damage, [[Playing the Game/Distance\|Far]] range. <br><br>Tinder Box to ignite shot. <br>Action to reload.                                                                                                                               |
