@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment-and-services/adventurer-s-guild/","tags":["Characters"],"created":"2025-01-02T11:24:07.343-05:00","updated":"2025-03-15T04:17:15.927-04:00"}
+{"dg-publish":true,"permalink":"/equipment-and-services/adventurer-s-guild/","tags":["Characters"],"created":"2025-01-02T11:24:07.343-05:00","updated":"2025-03-16T02:10:22.178-04:00"}
 ---
 
 The Guild roster defines your company's rules for looting rights. 
@@ -7,7 +7,7 @@ The Guild roster defines your company's rules for looting rights.
 >*"Agree to a journey and subsequent extraction from the Underworld of any and all goods, valuables, and chattels (which activities are described collectively herein as the Adventure), which shall proceed in a timely manner and with all due care and consideration as seen fit by majority rule, to wit, the Guild, named:*
 >
 >***Provision of Funds***:
->*The Guild shall furnish each newly initiated Delver with a stipend amounting to the sum of 3d6 × 10 in lawful coinage. Said funds are intended solely for the procurement of equipment and supplies from designated Guild storehouses in preparation for the Adventure herein described.*
+>*The Guild shall furnish each newly initiated Delver with a stipend amounting to the sum of d6 × 10 in lawful coinage. Said funds are intended solely for the procurement of equipment and supplies from designated Guild storehouses in preparation for the Adventure herein described.*
 >
 >***Transportation Arrangements***:
 >*For Adventures requiring significant travel, the Guild undertakes to supply appropriate transportation by means of a mule-drawn cart and a duly-appointed driver. This conveyance shall serve to transport acquired treasures, chattels, and the Delvers themselves. In accordance with established Guild protocols, the assigned driver retains the discretionary right to depart the designated meeting place, presuming total loss of the Delving party, should no members thereof return to the cart by the onset of nightfall.*
