@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/playing-the-game/downtime/","tags":["Combat","Exploration","Rules"],"created":"2025-01-02T11:24:07.883-05:00","updated":"2025-03-15T04:20:19.022-04:00"}
+{"dg-publish":true,"permalink":"/playing-the-game/downtime/","tags":["Combat","Exploration","Rules"],"created":"2025-01-02T11:24:07.883-05:00","updated":"2025-03-16T15:46:55.442-04:00"}
 ---
 
 The town is a "safe zone," so character groups can never attack or kill each other there. 
@@ -10,7 +10,7 @@ A few minutes of rest and a swig of water or a ration heals all of a character's
 ### Long Rest
 Takes 1 hour. A meal and some sleep will restore all HP. If HP was already full, restore 1d6 to an ability score.
 ### Full Rest
-A full week back in safety fully restores your delver's ability scores and removes most long-term conditions.
+A full week back in safety fully restores your delver's ability scores and removes most long-term [[Playing the Game/Conditions\|Conditions]].
 
 ---
 # Costs of Living 

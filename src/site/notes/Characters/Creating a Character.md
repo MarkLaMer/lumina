@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/creating-a-character/","tags":["Characters"],"created":"2025-01-02T11:24:07.224-05:00","updated":"2025-03-15T12:12:25.080-04:00"}
+{"dg-publish":true,"permalink":"/characters/creating-a-character/","tags":["Characters"],"created":"2025-01-02T11:24:07.224-05:00","updated":"2025-03-16T15:57:19.113-04:00"}
 ---
 
 *You have no home.	You have no job.	You have no prospects.*
@@ -34,7 +34,7 @@ Your delver carries items in [[Equipment & Services/Inventory\|Inventory]] slots
 >- **Torches**
 >- **Rations**
 >- Two items from their **[[Characters/Failed Career\|Failed Career]]**
->- A **[[Equipment & Services/Equipment Details#The Armoury\|weapon]]** of your choice
+>- A **[[Equipment & Services/Equipment Details\|weapon]]** of your choice
 >- Anything else you buy with your starting coin.
 
 >[!Check] Optional Rule
