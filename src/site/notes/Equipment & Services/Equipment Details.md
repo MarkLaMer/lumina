@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/equipment-and-services/equipment-details/","created":"2025-01-02T11:24:07.630-05:00","updated":"2025-03-17T13:54:22.285-04:00"}
+{"dg-publish":true,"permalink":"/equipment-and-services/equipment-details/","created":"2025-01-02T11:24:07.630-05:00","updated":"2025-03-17T13:54:44.706-04:00"}
 ---
 
 
 While in the City, determine what you purchase for your next adventure. These prices are abstracted. You don't tally your money for every torch, ration or dagger. Fill your pack with as much as it can hold based on your [[zRSC/The City#Upkeep\|upkeep]] level (or lower): ***impoverished, common, luxurious***.
+![8Martie.png](/img/user/8Martie.png)
 
 | Upkeep Level                       | Details                                                                                                                                                                                                                                                                                                    |
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
