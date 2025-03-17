@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/classes/fighter/","tags":["Characters"],"created":"2025-01-02T11:24:07.322-05:00","updated":"2025-03-16T15:00:36.659-04:00"}
+{"dg-publish":true,"permalink":"/classes/fighter/","tags":["Characters"],"created":"2025-01-02T11:24:07.322-05:00","updated":"2025-03-17T16:21:57.055-04:00"}
 ---
 
-![Pasted image 20250313121127.png|right lp|350](/img/user/zRSC/images/Pasted%20image%2020250313121127.png)*Fighters are adventurers because they are so inured to death that they cannot settle down to a normal life.*
+![Pasted image 20250313121127.png|right lp](/img/user/zRSC/images/Pasted%20image%2020250313121127.png)*Fighters are adventurers because they are so inured to death that they cannot settle down to a normal life.*
 
 >[!Check] XP Based on Class (Optional)
 >Whenever Fighters kill an enemy, they gain XP equal to the enemy's level.
