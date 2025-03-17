@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment-and-services/inventory/","tags":["Equipment","excalidraw"],"created":"2025-01-15T18:17:50.920-05:00","updated":"2025-03-17T13:40:19.604-04:00"}
+{"dg-publish":true,"permalink":"/equipment-and-services/inventory/","tags":["Equipment","excalidraw"],"created":"2025-01-15T18:17:50.920-05:00","updated":"2025-03-17T13:55:27.424-04:00"}
 ---
 
 All [[Equipment & Services/Equipment Details\|equipment]] and conditions are stored in one of ten Inventory slots.
@@ -8,6 +8,7 @@ All [[Equipment & Services/Equipment Details\|equipment]] and conditions are sto
 | Hand Slots                        | Body Slots                                                | Pack Slots                                                                                                                                                        |
 | --------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Items in these slots are carried. | Worn items can be swapped with paw slots as a free action | Items in these slots take time to retrieve when under pressure. While in combat, your delver must use an action (instead of attacking) to find an item in a pack. |
+
 ![Pasted image 20250317133852.png](/img/user/Pasted%20image%2020250317133852.png)
 # Conditions
 Conditions are negative effects on your delver. Conditions must be placed in an inventory slot. Some also have additional effects. Conditions can only be removed from your delver’s inventory by meeting their clear condition —usually a long or full rest
