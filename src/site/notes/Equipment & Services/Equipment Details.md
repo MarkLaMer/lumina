@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment-and-services/equipment-details/","created":"2025-01-02T11:24:07.630-05:00","updated":"2025-03-17T14:04:18.491-04:00"}
+{"dg-publish":true,"permalink":"/equipment-and-services/equipment-details/","created":"2025-01-02T11:24:07.630-05:00","updated":"2025-03-17T14:54:10.741-04:00"}
 ---
 
 
@@ -13,20 +13,20 @@ While in the City, determine what you purchase for your next adventure. These pr
 | Luxurious - 100c      | If you live in luxury and stay in the most high-class establishments, a [[Playing the Game/Downtime#Full Rest\|Full Rest]] will heal heal every Condition. <br>Begin the next delve with full Grit.<br><br>You can purchase as many pieces of gear from the impoverished, common and luxurious item lists as you can carry. |
 # Impoverished Gear
 
-| Improvised Gear                                  |                                                                                                                                                                                                     |
-| ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Improvised Weapons<br>![ImprovisedWeapons.png](/img/user/ImprovisedWeapons.png) | **d4 damage** <br>Main hand / both hands <br><br>Always mark usage after a fight. <br><br>*Damage **does not** explode.*                                                                            |
-| Light Weapons<br>![LightWeapons.png](/img/user/LightWeapons.png)           | **d4 damage** <br>Main hand / off hand<br><br>If attacking with two weapons, <br>roll both dice and use the best result.<br>                                                                        |
-| Light Ranged Weapons                             | **d4 damage**<br>Main hand<br><br>**Stones, pouch** <br>Body slot<br><br><br>                                                                                                                       |
-| Medium Weapons<br>                               | d6 / d8 damage <br>Main hand / both hands <br><br>Does d6 damage in one hand, d8 wielded in both.<br><br>                                                                                           |
-| Candles                                          | Extra-large tallow candle. <br>Fully reveal anything [[Playing the Game/Distance\|Near]]. <br><br>Consumed for lamp or candlehelm light.                                                                             |
-| Rations, standard                                | Fresh, unpreserved food.                                                                                                                                                                            |
-| Sack<br>                                         | Adds an additional 3 Inventory Slots <br>for the cost of one. <br><br>Filling a sack with treasure or other <br>items takes 1 turn.                                                                 |
-| Rope                                             | <br>Strong enoughe to hold the weight of <br>**three** people and their equipment.                                                                                                                  |
-| Tinder Box<br>                                   | Flint, steel, and tinder <br>contained in a small box. <br><br>With it, routine attempts to light a <br>fire always succeed. <br><br>Without it, there is a 2-in-6 chance <br>of success per round. |
-| Healing Wine                                     | Drink to regain d6 STR. <br>With every usage, subtract 1 DEX.                                                                                                                                       |
-| Chewing Tobacco ("Pipe Weed")<br>                |                                                                                                                                                                                                     |
-| Crowbar                                          | Used for prying open doors, chest lids, etc.                                                                                                                                                        |
+| Improvised Gear                                   |                                                                                                                                                                                                     |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Improvised Weapons![ImprovisedWeapons 1.png](/img/user/ImprovisedWeapons%201.png)    | **d4 damage** <br>Main hand / both hands <br><br>Always mark usage after a fight. <br><br>*Damage **does not** explode.*                                                                            |
+| Light Weapons<br>![LightWeapons.png](/img/user/LightWeapons.png)            | **d4 damage** <br>Main hand / off hand<br><br>If attacking with two weapons, <br>roll both dice and use the best result.<br>                                                                        |
+| Light Ranged Weapons<br>![LightRanged.png](/img/user/LightRanged.png)      | **d4 damage**<br>Main hand<br><br>**Stones, pouch** <br>Body slot<br><br><br>                                                                                                                       |
+| Medium Weapons<br>![mediumWeapons.png](/img/user/mediumWeapons.png)<br>      | d6 / d8 damage <br>Main hand / both hands <br><br>Does d6 damage in one hand, d8 wielded in both.<br><br>                                                                                           |
+| Candles<br>![candles.png](/img/user/candles.png)                       | Extra-large tallow candle. <br>Fully reveal anything [[Playing the Game/Distance\|Near]]. <br><br>Consumed for lamp or candlehelm light.                                                                             |
+| Rations, standard<br>![rationsS.png](/img/user/rationsS.png)            | Fresh, unpreserved food.                                                                                                                                                                            |
+| Sack<br>![sack.png](/img/user/sack.png)                             | Adds an additional 3 Inventory Slots <br>for the cost of one. <br><br>Filling a sack with treasure or other <br>items takes 1 turn.                                                                 |
+| Rope<br>![rope.png](/img/user/rope.png)                             | <br>Strong enoughe to hold the weight of <br>**three** people and their equipment.                                                                                                                  |
+| Tinder Box<br>![tinder box.png](/img/user/tinder%20box.png)                 | Flint, steel, and tinder <br>contained in a small box. <br><br>With it, routine attempts to light a <br>fire always succeed. <br><br>Without it, there is a 2-in-6 chance <br>of success per round. |
+| Healing Wine<br>![wine.png](/img/user/wine.png)<br>                 | Drink to regain d6 STR. <br>With every usage, subtract 1 DEX.                                                                                                                                       |
+| Chewing Tobacco ("Pipe Weed")<br>![tobacco.png](/img/user/tobacco.png) |                                                                                                                                                                                                     |
+| Crowbar<br>                                       | Used for prying open doors, chest lids, etc.                                                                                                                                                        |
 
 # Common Gear
 
