@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/playing-the-game/delving-rules/","tags":["Exploration","Rules"],"created":"2025-01-02T11:24:07.875-05:00","updated":"2025-03-15T09:38:07.790-04:00"}
+{"dg-publish":true,"permalink":"/playing-the-game/delving-rules/","tags":["Exploration","Rules"],"created":"2025-01-02T11:24:07.875-05:00","updated":"2025-03-23T18:27:33.289-04:00"}
 ---
 
 ![Pasted image 20250313103341.png|right lp|300](/img/user/zRSC/images/Pasted%20image%2020250313103341.png)Delving is a glorious experience for the sadistic. Journeying into the earth or high above the skies robs you of the simple pleasures of life (time, light, gear and limbs) for the fair trade of gems and coin! 
@@ -35,7 +35,7 @@ Most light sources last for up to an ***hour of real time*** and illuminate a li
 ## Vision
 - If you are holding a light source (or directly aided by another with a light source), you are in "**bright light**" and can do any task without penalty, but you are also clearly visible. Hiding is impossible.
 - If someone else is holding a light source, you are considered to be in "**dim light**". Any visually dependent roll (picking a lock, casting a spell) is [[Playing the Game/Basic Rules#Easy & Hard Rolls\|hard]]. 
-- If in complete darkness, the delvers will be surprised by all encounters, spring all traps and cannot map. Roll a WIL Danger Roll or gain one of the conditions:
+- If in complete darkness, the delvers will be surprised by all encounters, spring all traps and cannot map. Roll a WIL Danger Roll or gain one of the Delving in the Dark conditions:
 
 
 

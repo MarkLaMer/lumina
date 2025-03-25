@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/creating-a-character/","tags":["Characters"],"created":"2025-01-02T11:24:07.224-05:00","updated":"2025-03-16T15:57:19.113-04:00"}
+{"dg-publish":true,"permalink":"/characters/creating-a-character/","tags":["Characters"],"created":"2025-01-02T11:24:07.224-05:00","updated":"2025-03-24T23:06:14.149-04:00"}
 ---
 
 *You have no home.	You have no job.	You have no prospects.*
@@ -35,10 +35,10 @@ Your delver carries items in [[Equipment & Services/Inventory\|Inventory]] slots
 >- **Rations**
 >- Two items from their **[[Characters/Failed Career\|Failed Career]]**
 >- A **[[Equipment & Services/Equipment Details\|weapon]]** of your choice
->- Anything else you buy with your starting coin.
+>- [[Equipment & Services/Equipment Details\|Anything else]] you buy with your starting coin.
+>
+>>If your delver’s highest Ability Score is 9 or less, your character starts off with an [[Treasures/Artifacts/Artifacts\|Artifact]].
 
->[!Check] Optional Rule
->If your delver’s highest Ability Score is 9 or less, roll on the [[Characters/Failed Career\|Failed Career]] table again and take either Item A or B. If your highest is 7 or less, take both.
 # Details
 >[!Summary] Step 4
 >For the sake of fleshing out your character and roleplay, roll a [[Characters/Flesh Out your Character#Motto\|motto]], [[Characters/Flesh Out your Character#Physical Detail\|physical detail]], [[Characters/Flesh Out your Character#Reason Delving\|reason for delving]], [[Characters/Bonds\|bond]], and a [[Characters/Flesh Out your Character#Name\|name]].

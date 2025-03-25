@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/treasures/artifacts/magic-swords/","tags":["Magic","Treasures"],"created":"2025-03-14T02:17:11.803-04:00","updated":"2025-03-15T04:21:23.301-04:00"}
+{"dg-publish":true,"permalink":"/treasures/artifacts/magic-swords/","tags":["Magic","Treasures"],"created":"2025-03-14T02:17:11.803-04:00","updated":"2025-03-25T00:05:50.380-04:00"}
 ---
 
 Magic swords are exceptionally powerful and perilous artifacts. Each of these sentient weapons can only be wielded by [[Classes/Fighter\|Fighters]], and they take a sinister delight in the pain it inflicts upon others.
@@ -18,9 +18,10 @@ Each runic weapon possesses its own Willpower score, determined using the same m
 >At the beginning of each session, the GM must perform a WIL Danger Roll for the weapon. If this test succeeds, the weapon will seize the opportunity to kill its wielder if they ever become helpless during that session. Alternatively, at the GM's discretion, the weapon may choose to take the life of an important NPC instead.
 
 ![Pasted image 20250314030711.png|right lp|400](/img/user/zRSC/images/Pasted%20image%2020250314030711.png)
-The weapon seems to be made of.... (d12)
+The weapon seems 
+to be made of.... (d12)
 
-| d12 | Matterial       |
+| d12 | Material        |
 | --- | --------------- |
 | 1   | Bone            |
 | 2   | Obsidian        |
@@ -37,7 +38,8 @@ The weapon seems to be made of.... (d12)
 # Magic Sword Ability
 Magic swords are capable of holding powerful spirits, and are often (25%) forged with unusual and unique qualities. If a Unique Magic Sword is indicated by this die roll, roll on the table below.
 
-All magic swords deal +1, +2, +3 or +4 damage (roll a $d4$) which will modify the effective result (i.e. a +2 on a $d8!$ attack roll of 6 makes it an 8, so the fighter can roll again due to his weapon training).
+>[!Note]
+>All magic swords deal +1, +2, +3 or +4 extra damage (roll a $d4$ upon first use to find out which).
 
 | d20 | Unique Sword Ability                                                                                                                                                                                                                                                                                                                                       |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,5 +52,5 @@ All magic swords deal +1, +2, +3 or +4 damage (roll a $d4$) which will modify th
 | 7   | **Vigilant Dream Sword**: The sword awakens its owner when danger is near, but only if the owner is asleep                                                                                                                                                                                                                                                 |
 | 8   | **Marked Foe Sword**: The sword detects the presence of a particular type or class of monster                                                                                                                                                                                                                                                              |
 | 9   | **Fancedancer Sword**: The sword allows its wielder to change his or her facial appearance and create the appearance of a slightly larger or smaller size, all by illusion.                                                                                                                                                                                |
-| 10  | **Super Steel**: The weapon inflicts damage equal to +1 dice type above the usual sword damage ($d6 \rightarrow d8 \rightarrow d10$); +2 swords deal two dice types above the usual, etc.                                                                                                                                                                  |
+| 10  | **Super Steel**: The weapon inflicts exploding damage (i.e. any maximum roll allows the user to roll again and add the result, potentially ad infinitum).                                                                                                                                                                                                  |
 

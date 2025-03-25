@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/playing-the-game/basic-rules/","tags":["Rules"],"created":"2025-01-02T11:24:07.795-05:00","updated":"2025-03-15T04:18:29.603-04:00"}
+{"dg-publish":true,"permalink":"/playing-the-game/basic-rules/","tags":["Rules"],"created":"2025-01-02T11:24:07.795-05:00","updated":"2025-03-24T10:47:25.428-04:00"}
 ---
 
 ![Pasted image 20241014233842.png](/img/user/zRSC/images/Pasted%20image%2020241014233842.png)
@@ -30,8 +30,8 @@ A Danger Roll is a roll to avoid danger from a risky action or situation. Roll a
 - Through agility and finesse? = **Dexterity**
 - Through resilience or force of personality? = **Willpower**
 ### Interpreting Results
-• **Hit**!: The roll under your Ability Score.
-• **Miss**!: Beyond your ability! The roll too high over the Ability Score! 
+• **Hit**! = The roll under your Ability Score.
+• **Miss**! = Beyond your ability! The roll too high over the Ability Score! 
 >[!Check] Optional Rule - Crit
 >When a player rolls a natural 20 on a Danger Roll, the result CRITS! The Ability Score that was used automatically increases its maximum by 1.
 ## Easy & Hard Rolls
@@ -47,4 +47,6 @@ When two foes are vying for the same goal, the GM may call for each to roll a Da
 >PCs automatically know all common knowledge and any specialized knowledge covered by their careers. Any other knowledge must be discovered in-game.
 
 >[!Tip] Search Rolls?
->Hidden things are either automatically discovered after enough time is spent searching (usually a full Turn for dungeon rooms or a full Watch for wilderness hexes) or they cannot be found without taking in-game actions. Obvious features of an area should be described right away to PCs, and other details should be described as players ask questions and investigate.
+>Hidden things are either automatically discovered after enough time is spent searching (usually a full Turn for dungeon rooms or a full Watch for wilderness hexes) or they cannot be found without taking in-game actions. 
+>- Obvious features of an area should be described right away to PCs, and other details should be described as players ask questions and investigate.
+>- If the players just say, "I search the room," then sure, leave it up to fate and roll WIL.
