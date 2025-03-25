@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/playing-the-game/conditions/","tags":["Combat","Rules","Exploration"],"created":"2025-01-02T11:24:07.857-05:00","updated":"2025-03-24T23:11:21.239-04:00"}
+{"dg-publish":true,"permalink":"/playing-the-game/conditions/","tags":["Combat","Rules","Exploration"],"created":"2025-01-02T11:24:07.857-05:00","updated":"2025-03-25T08:45:13.464-04:00"}
 ---
-
 
 # Conditions
 ## Injured

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/playing-the-game/death/","tags":["Combat","Exploration"],"created":"2025-01-02T11:24:07.859-05:00","updated":"2025-03-24T22:59:53.647-04:00"}
+{"dg-publish":true,"permalink":"/playing-the-game/death/","tags":["Combat","Exploration"],"created":"2025-01-02T11:24:07.859-05:00","updated":"2025-03-25T09:09:35.288-04:00"}
 ---
 
 *A very real prospect in any Delver's line of work.*
@@ -25,3 +25,28 @@ Faced with the possibility of character death, players may wish to create a will
 - **Tax:** Any treasure left as an inheritance will be taxed at 10%.
 - **Heir:** The heir must be a newly created character of 1st level.
 - **Once only:** Inheritance may only be left once by each player.
+
+---
+
+| d20 | How does the magic-user die? |
+| --- | ---------------------------- |
+| 1   | Becomes oracle               |
+| 2   | Pulled into Hell             |
+| 3   | Puff of smoke                |
+| 4   | Screams                      |
+| 5   | Becomes mundane              |
+| 6   | Explodes                     |
+| 7   | Sucked into Astral Plane     |
+| 8   | Becomes ghost                |
+| 9   | Eyes radiate                 |
+| 10  | Burst of blood               |
+| 11  | Inversion                    |
+| 12  | Turns to dust                |
+| 13  | Frozen                       |
+| 14  | Turns to stone               |
+| 15  | Implodes                     |
+| 16  | Shatters                     |
+| 17  | Melts                        |
+| 18  | In flames                    |
+| 19  | Demon devours                |
+| 20  | Becomes worm                 |

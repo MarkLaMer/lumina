@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/playing-the-game/combat/","tags":["Combat","Rules"],"created":"2025-01-02T11:24:07.851-05:00","updated":"2025-03-24T23:38:00.637-04:00"}
+{"dg-publish":true,"permalink":"/playing-the-game/combat/","tags":["Combat","Rules"],"created":"2025-01-02T11:24:07.851-05:00","updated":"2025-03-25T08:44:46.261-04:00"}
 ---
 
 ***Ordinary hand-to-hand combat is a messy, brutal affair**. Hand-to-hand combat while lying facedown in mud far below the surface, where neither sun nor moon can reach is worse. It is a grisly, merciless, and often entirely desperate situation to find yourself in. Most avoid it at all costs.*
@@ -35,7 +35,7 @@ A character that takes a Critical Damage, they take the **Injured** [[Playing th
 If a character has weapon training in a weapon type, they may roll with one dice type higher than what it usually is. For example, a [[Classes/Fighter\|Fighter]], being trained in all weapons, rolls with a d6 instead of a d4 for Light Weapons and a d12 instead of a d10 for Heavy Weapons.
 ## Blast
 Blast weapons cause Damage to all targets in an appropriate area, rolling separately for each. If in doubt as to how many targets are affected, roll the weapon's damage die.
-![Pasted image 20250313114646.png|right lp|300](/img/user/zRSC/images/Pasted%20image%2020250313114646.png)
+![Pasted image 20250313114646.png|relative ws-med right lp|300](/img/user/zRSC/images/Pasted%20image%2020250313114646.png)
 ## Shenanigans
 When a character makes an Attack, they may also attempt a Shenanigan. Shenanigans are tricksy actions that include disarming, pushing, blinding, stunning, tripping, climbing, restraining, or anything else the GM agrees is plausible and unsporting to your average Brit. 
 To make a Shenanigan, declare the action you wish to take to impede the opponent. Both combatants perform [[Playing the Game/Basic Rules#Versus Rolls\|Versus Rolls]].
