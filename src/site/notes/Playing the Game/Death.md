@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/playing-the-game/death/","tags":["Combat","Exploration"],"created":"2025-01-02T11:24:07.859-05:00","updated":"2025-03-25T09:09:35.288-04:00"}
+{"dg-publish":true,"permalink":"/playing-the-game/death/","tags":["Combat","Exploration"],"created":"2025-01-02T11:24:07.859-05:00","updated":"2025-03-26T13:54:58.287-04:00"}
 ---
 
 *A very real prospect in any Delver's line of work.*
@@ -14,19 +14,6 @@ Noble choice! Accept that your characters died, and you get a bonus for creating
 >Choose a boon:
 >- Roll $2d6+6$ for your Ability Scores.
 >- Roll $2d$ for HP.
-
-## My character is too young to die! Debasement!
-Faith smiles on your character but not too kindly. 
-> Reroll your Ability Scores (3d6) and take the lower result between your score max vs what you rolled. 
-> Roll on the mutations table.
-
-# Inheritance
-Faced with the possibility of character death, players may wish to create a will for their characters, to leave wealth behind for an heir. If the GM allows it, the following stipulations apply:
-- **Tax:** Any treasure left as an inheritance will be taxed at 10%.
-- **Heir:** The heir must be a newly created character of 1st level.
-- **Once only:** Inheritance may only be left once by each player.
-
----
 
 | d20 | How does the magic-user die? |
 | --- | ---------------------------- |
@@ -50,3 +37,17 @@ Faced with the possibility of character death, players may wish to create a will
 | 18  | In flames                    |
 | 19  | Demon devours                |
 | 20  | Becomes worm                 |
+## My character is too young to die! Debasement!
+Faith smiles on your character but not too kindly. 
+> Reroll your Ability Scores (3d6) and take the lower result between your score max vs what you rolled. 
+> Roll on the mutations table.
+
+# Inheritance
+Faced with the possibility of character death, players may wish to create a will for their characters, to leave wealth behind for an heir. If the GM allows it, the following stipulations apply:
+- **Tax:** Any treasure left as an inheritance will be taxed at 10%.
+- **Heir:** The heir must be a newly created character of 1st level.
+- **Once only:** Inheritance may only be left once by each player.
+
+---
+
+

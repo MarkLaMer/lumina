@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/equipment-and-services/equipment-details/","created":"2025-01-02T11:24:07.630-05:00","updated":"2025-03-25T09:03:04.972-04:00"}
+{"dg-publish":true,"permalink":"/equipment-and-services/equipment-details/","created":"2025-01-02T11:24:07.630-05:00","updated":"2025-03-26T14:01:24.739-04:00"}
 ---
 
 
@@ -59,7 +59,7 @@ While in the City, determine what you purchase for your next adventure. These pr
 | Acid![acid.png](/img/user/zRSC/pictures/acid.png)                                   | <br>d6 damage, burns through most materials.                                                                                                                                                                                                     |
 | Poison<br>![poison.png](/img/user/zRSC/pictures/poison.png)                           | <br>Lose d20 STR if consumed.                                                                                                                                                                                                                    |
 | Fire Oil<br>![fireoil.png](/img/user/zRSC/pictures/fireoil.png)                        | Blast when set alight, d6 damage each <br>round to anything on fire.                                                                                                                                                                             |
-| Alchemy Tools<br>![alchemy.png](/img/user/zRSC/pictures/alchemy.png)                   | Used to make potions.                                                                                                                                                                                                                            |
+| Alchemy Tools<br>![alchemy.png](/img/user/zRSC/pictures/alchemy.png)                   | Used to make [[Magic/Alchemy\|potions]].<br><br>Both hands                                                                                                                                                                                             |
 | Antitoxin                                           | Neutralizes most toxins.                                                                                                                                                                                                                         |
 | Candlehelm<br>                                      | Miner's helmet with a notch in the front <br>to attach a Candle. Stops any wax from<br>dripping down into your eyes, too.                                                                                                                        |
 | Ether<br>                                           | Inhaled, STR Danger Roll or pass out for an hour.                                                                                                                                                                                                |

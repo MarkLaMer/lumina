@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/playing-the-game/basic-rules/","tags":["Rules"],"created":"2025-01-02T11:24:07.795-05:00","updated":"2025-03-24T10:47:25.428-04:00"}
+{"dg-publish":true,"permalink":"/playing-the-game/basic-rules/","tags":["Rules"],"created":"2025-01-02T11:24:07.795-05:00","updated":"2025-03-26T13:59:25.648-04:00"}
 ---
 
 ![Pasted image 20241014233842.png](/img/user/zRSC/images/Pasted%20image%2020241014233842.png)
 # Turns
-A turn is the moment when the GM asks you, "it's your turn, what do you do?" The turn is is the metronome of the delving tune, and each beat can represent a different passage of time. In game time, a turn may represent a few moments (~10 seconds) in combat, a few minutes (~10 minutes)  while delving, a few hours (~4 hours) while on a watch in the wilderness or travelling to another location. Regardless, the game is always played in turns. 
+A turn is the moment when the GM asks you, "it's your turn, what do you do?" The turn is is the metronome of the delving tune, and each beat can represent a different passage of time. In game time, a turn may represent a few moments (~10 seconds) in combat, a few minutes (~10 minutes)  while delving, a few hours (~4 hours) while camping in the wilderness or travelling to another location. Regardless, the game is always played in turns. 
 
 Your turn consists of ONE of the following:
 - an Action
@@ -47,6 +47,6 @@ When two foes are vying for the same goal, the GM may call for each to roll a Da
 >PCs automatically know all common knowledge and any specialized knowledge covered by their careers. Any other knowledge must be discovered in-game.
 
 >[!Tip] Search Rolls?
->Hidden things are either automatically discovered after enough time is spent searching (usually a full Turn for dungeon rooms or a full Watch for wilderness hexes) or they cannot be found without taking in-game actions. 
+>Hidden things are either automatically discovered after enough time is spent searching (usually a full Turn for dungeon rooms and a full Turn for camping/wilderness hexes) or they cannot be found without taking in-game actions. 
 >- Obvious features of an area should be described right away to PCs, and other details should be described as players ask questions and investigate.
 >- If the players just say, "I search the room," then sure, leave it up to fate and roll WIL.
