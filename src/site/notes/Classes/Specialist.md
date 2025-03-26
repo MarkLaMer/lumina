@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/classes/specialist/","tags":["Characters"],"created":"2025-01-02T11:24:07.334-05:00","updated":"2025-03-17T16:23:55.132-04:00"}
+{"dg-publish":true,"permalink":"/classes/specialist/","tags":["Characters"],"created":"2025-01-02T11:24:07.334-05:00","updated":"2025-03-26T13:51:12.026-04:00"}
 ---
 
-![Pasted image 20250314031653.png|right lp](/img/user/zRSC/images/Pasted%20image%2020250314031653.png)*Specialists are rangers and thieves that zealously adventure simply because they want to whether inspired by greed, honour, or idle curiosity.*
+![Pasted image 20250314031653.png|right lp|400](/img/user/zRSC/images/Pasted%20image%2020250314031653.png)*Specialists are rangers and thieves that zealously adventure simply because they want to whether inspired by greed, honour, or idle curiosity.*
 
 >[!Check] XP Based on Class (Optional)
 >Specialists gain 10 XP whenever they find a secret thing.
