@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/characters/failed-career/","tags":["Characters"],"created":"2025-01-07T14:36:31.538-05:00","updated":"2025-03-25T11:19:23.864-04:00"}
+{"dg-publish":true,"permalink":"/characters/failed-career/","tags":["Characters"],"created":"2025-01-07T14:36:31.538-05:00","updated":"2025-03-26T10:12:30.301-04:00"}
 ---
 
 ![Pasted image 20250313114515.png](/img/user/zRSC/images/Pasted%20image%2020250313114515.png)
 Here are 48 possible *failed careers* [[Characters/Creating a Character\|your delver]] had prior.
 
 Determine your failed career based on your coin total and max HP.
-Tasks relating to your PC’s Failed Career are Easy.
+Tasks relating to your PC’s Failed Career are [[Playing the Game/Basic Rules#Easy & Hard Rolls\|Easy]].
 
 | Coin | HP  | Background        | Item A                           | Item B                           |
 | ---- | --- | ----------------- | -------------------------------- | -------------------------------- |
