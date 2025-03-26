@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/classes/magic-user/","tags":["Characters"],"created":"2025-01-02T11:24:07.327-05:00","updated":"2025-03-26T10:20:38.250-04:00"}
+{"dg-publish":true,"permalink":"/classes/magic-user/","tags":["Characters"],"created":"2025-01-02T11:24:07.327-05:00","updated":"2025-03-26T13:44:16.530-04:00"}
 ---
 
-![Pasted image 20250313115650.png|right lp](/img/user/zRSC/images/Pasted%20image%2020250313115650.png)*Sorcery is Chaos using humans as conduits and letting them think they’re in control. Of course, bending reality to your will has a price. One way or another, it's a quick and memorable life. The greybeard wizards are simply the ones who managed to survive for long enough or got caught with an aging curse. Magic-Users are those that have pursued the dark arts and are no longer welcome in society.*
+![Pasted image 20250313115650.png|right lp|300](/img/user/zRSC/images/Pasted%20image%2020250313115650.png)*Sorcery is Chaos using humans as conduits and letting them think they’re in control. Of course, bending reality to your will has a price. One way or another, it's a quick and memorable life. The greybeard wizards are simply the ones who managed to survive for long enough or got caught with an aging curse. Magic-Users are those that have pursued the dark arts and are no longer welcome in society.*
 
 >[!Check] XP Based on Class (Optional)
 >Magic Users gain 100 XP whenever they bring an unknown artifact, or living organism, back to a haven for study.
