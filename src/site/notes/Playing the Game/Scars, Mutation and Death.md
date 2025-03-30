@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/playing-the-game/scars-mutation-and-death/","tags":["Combat","Exploration"],"created":"2025-01-02T11:24:07.859-05:00","updated":"2025-03-29T23:14:20.978-04:00"}
+{"dg-publish":true,"permalink":"/playing-the-game/scars-mutation-and-death/","tags":["Combat","Exploration"],"created":"2025-01-02T11:24:07.859-05:00","updated":"2025-03-29T23:26:42.543-04:00"}
 ---
 
 *A very real prospect in any Delver's line of work.*
-
-If a Delver's STR is down to 0 (or less), roll a d6 inside a opaque cup. There is a 3-in-6 chance of surviving. Do not look at the result until a comrade "checks" your vitals. 
 
 # Scars
 | d12 | Scars Result                                                                                                                                                                                                              |
