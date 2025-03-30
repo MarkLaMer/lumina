@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/playing-the-game/combat/","tags":["Combat","Rules"],"created":"2025-01-02T11:24:07.851-05:00","updated":"2025-03-25T08:44:46.261-04:00"}
+{"dg-publish":true,"permalink":"/playing-the-game/combat/","tags":["Combat","Rules"],"created":"2025-01-02T11:24:07.851-05:00","updated":"2025-03-29T23:16:12.034-04:00"}
 ---
 
 ***Ordinary hand-to-hand combat is a messy, brutal affair**. Hand-to-hand combat while lying facedown in mud far below the surface, where neither sun nor moon can reach is worse. It is a grisly, merciless, and often entirely desperate situation to find yourself in. Most avoid it at all costs.*
@@ -22,10 +22,12 @@ If you choose to attack a target as your action in a Round of combat, take the d
 Attacks that are ***Impaired***, such as firing through cover, or fighting while grappled, roll d4 Damage regardless of weapon. Similarly, attacks that are ***Enhanced*** by a risky [[Playing the Game/Combat#Shenanigans\|Shenanigan]] or a helpless or vulnerable target, roll d12 Damage. 
 # Hit Protection ("HP") and Damage
 Hit Protection are your characters ability to take hits and remain uninjured. When a character takes damage, they lose that many ***HP***. If there is no HP left, the character takes Critical Damage, and any surplus Damage is removed from ***STR***. The character must pass a STR Danger Roll. If successful the character is still able to fight, if not take Critical Damage.
+### Scars
+When damage to a PC reduces their HP to **exactly 0**, they are sometimes changed irrevocably. See the [[Playing the Game/Scars, Mutation and Death#Scars\|scars]] table.
 ### Critical Damage
 A character that takes a Critical Damage, they take the **Injured** [[Playing the Game/Conditions\|Condition]], and are unable to take any further action until tended by an ally and takes a Short Rest. If left for an hour (set a timer) without tending to by an ally, the character dies (roll up a new level 1 Delver or RP a hireling).
 ### Ability Score Loss
-- If STR is reduced to 0, you are close to [[Playing the Game/Death\|death]]. 
+- If STR is reduced to 0, you are close to [[Playing the Game/Scars, Mutation and Death\|death]]. 
 - If DEX is reduced to 0, you are paralyzed.
 - If WIL is reduced to 0, you are left victim to the magical powers or lie catatonic.
 

@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/equipment-and-services/inventory/","tags":["Equipment","excalidraw"],"created":"2025-01-15T18:17:50.920-05:00","updated":"2025-03-17T13:55:27.424-04:00"}
+{"dg-publish":true,"permalink":"/equipment-and-services/inventory/","tags":["Equipment","excalidraw"],"created":"2025-01-15T18:17:50.920-05:00","updated":"2025-03-29T23:03:44.407-04:00"}
 ---
 
-All [[Equipment & Services/Equipment Details\|equipment]] and conditions are stored in one of ten Inventory slots.
+All [[Equipment & Services/Equipment Details\|equipment]] and conditions are stored in one of ten Inventory slots: a *backpack* with six slots, one slot for each hand and two slots for the upper body (belt, chest, etc.).
 ![Pasted image 20250315183612.png](/img/user/zRSC/pictures/Pasted%20image%2020250315183612.png)
+Bulky items take up two slots and are typically two handed. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
 
 | Hand Slots                        | Body Slots                                                | Pack Slots                                                                                                                                                        |
 | --------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -11,7 +12,7 @@ All [[Equipment & Services/Equipment Details\|equipment]] and conditions are sto
 
 ![Pasted image 20250317133852.png](/img/user/zRSC/pictures/Pasted%20image%2020250317133852.png)
 # Conditions
-Conditions are negative effects on your delver. Conditions must be placed in an inventory slot. Some also have additional effects. Conditions can only be removed from your delver’s inventory by meeting their clear condition —usually a long or full rest
+[[Playing the Game/Conditions\|Conditions]] are negative effects on your delver. Conditions must be placed in an inventory slot. Some also have additional effects. Conditions can only be removed from your delver’s inventory by meeting their clear condition —usually a long or full rest
 # Usage
 Most items have three usage dots. When all three dots are marked on an item, it is depleted or destroyed. Usage dots can be cleared from weapons/armour for 1% of the original [[zRSC/GM Archive/Playtest for later/Equipment Details Pictures\|upkeep level]]cost per dot cleared. 
 - **Weapons/armour/ammunition**: after a fight, roll d6 for each item that was used during the fight. On 4-6, mark usage. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/magic-user/","tags":["Characters"],"created":"2025-01-02T11:24:07.327-05:00","updated":"2025-03-26T14:11:00.851-04:00"}
+{"dg-publish":true,"permalink":"/classes/magic-user/","tags":["Characters"],"created":"2025-01-02T11:24:07.327-05:00","updated":"2025-03-29T23:10:05.858-04:00"}
 ---
 
 ![Pasted image 20250313115650.png|right lp|400](/img/user/zRSC/images/Pasted%20image%2020250313115650.png)*Sorcery is Chaos using humans as conduits and letting them think they’re in control. Of course, bending reality to your will has a price. One way or another, it's a quick and memorable life. The greybeard wizards are simply the ones who managed to survive for long enough or got caught with an aging curse. Magic-Users are those that have pursued the dark arts and are no longer welcome in society.*
@@ -20,7 +20,7 @@ As a Camp action, Magic-Users can [[Magic/Alchemy\|brew potions]] from potent in
 *[[Magic/Spells\|Spells]] are items of locked magical power. Magic-Users can ignore the conditions or effects to cast the Spell by simply using it to deal pure maleficence.* 
 As an action, fill-in all usage points of a Spell to [[Playing the Game/Combat#Attacks\|Attack]] with d6 [[Playing the Game/Combat#Blast\|Blast]] damage to anyone within a [[Playing the Game/Distance\|Close]] radius of where the magic missile hits. 
 ### With a Bang
-Magic-users don't die like regular chums. Every one dies in a [[Playing the Game/Death\|unique way]].
+Magic-users don't die like regular chums. Every one dies in a [[Playing the Game/Scars, Mutation and Death\|unique way]].
 
 # Magic Talents 
 Pick a Talent to unlock/upgrade with every other level (see [[Characters/Advancement\|Advancement]]).

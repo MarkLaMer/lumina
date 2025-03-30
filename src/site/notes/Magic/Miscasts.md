@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/magic/miscasts/","tags":["Magic"],"created":"2025-03-14T00:30:11.772-04:00","updated":"2025-03-15T04:18:04.571-04:00"}
+{"dg-publish":true,"permalink":"/magic/miscasts/","tags":["Magic"],"created":"2025-03-14T00:30:11.772-04:00","updated":"2025-03-29T23:15:26.972-04:00"}
 ---
 
 ![Pasted image 20241015001702.png](/img/user/zRSC/images/Pasted%20image%2020241015001702.png)
@@ -23,27 +23,5 @@ The spell’s miscast effect is determined by changing a few letters of the spel
 >**Fireball → Firefall**. The magic-user attempted to catapult a massive ball of fire towards an enemy but instead made it rain fire.
 
 ## Mutation
-If no one can think of an alternative, the failed magic-user will roll the table below, becoming more draconic and wild.
+If no one can think of an alternative, the failed magic-user will roll the [[Playing the Game/Scars, Mutation and Death#Mutation\|mutation]] table, becoming more draconic and wild.
 
-| d20 | Mutation Result                                      |
-| --- | ---------------------------------------------------- |
-| 1   | Ages and grows beard                                 |
-| 2   | Hunchback                                            |
-| 3   | Lose teeth                                           |
-| 4   | Gender swap                                          |
-| 5   | Forked tongue                                        |
-| 6   | Lose all hair                                        |
-| 7   | Random extremity covered in scales                   |
-| 8   | Long arms                                            |
-| 9   | [[monster feature\|monster feature]]                                  |
-| 10  | [[monster trait\|monster trait]]                                    |
-| 11  | Slime trail                                          |
-| 12  | Cyclops                                              |
-| 13  | [[Animal\|Animal]] arms                                      |
-| 14  | [[Animal\|Animal]] eyes                                      |
-| 15  | [[Animal\|Animal]] head                                      |
-| 16  | [[Animal\|Animal]] legs                                      |
-| 17  | [[Animal\|Animal]] skin                                      |
-| 18  | Caster switches location with spell target           |
-| 19  | Caster becomes invisible and silenced for one minute |
-| 20  | Caster explodes in a shower of gore.                 |
