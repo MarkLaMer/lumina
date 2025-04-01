@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/classes/specialist/","tags":["Characters"],"created":"2025-01-02T11:24:07.334-05:00","updated":"2025-03-26T13:51:12.026-04:00"}
+{"dg-publish":true,"permalink":"/classes/specialist/","tags":["Characters"],"created":"2025-01-02T11:24:07.334-05:00","updated":"2025-03-31T20:46:19.800-04:00"}
 ---
 
 ![Pasted image 20250314031653.png|right lp|400](/img/user/zRSC/images/Pasted%20image%2020250314031653.png)*Specialists are rangers and thieves that zealously adventure simply because they want to whether inspired by greed, honour, or idle curiosity.*
@@ -18,7 +18,7 @@ A long life in the wild trains Specialists to survive in natural hostile environ
 - Climbing
 - Moving silently and unseen
 - Understanding secret signs
-### Banish Undead
+### Turn Undead
 Spend an action to banish all Nearby undead by testing WIL and adding the creature's level (HD) to the roll.
 ### Hands of a Healer
 Prepare herbal remedies while in the wilderness. Make a WIL Danger Roll. If you fail, you cannot make this remedy again until you successfully Long Rest. Unused remedies expire within an hour.

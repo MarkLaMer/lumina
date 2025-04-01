@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/creating-a-character/","tags":["Characters"],"created":"2025-01-02T11:24:07.224-05:00","updated":"2025-03-24T23:06:14.149-04:00"}
+{"dg-publish":true,"permalink":"/characters/creating-a-character/","tags":["Characters"],"created":"2025-01-02T11:24:07.224-05:00","updated":"2025-03-31T10:25:56.893-04:00"}
 ---
 
 *You have no home.	You have no job.	You have no prospects.*
@@ -24,12 +24,12 @@ There are three [[Classes/Classes\|Classes]] to play that help define your role 
 # Roll for Coin, get a Failed Career
 Coins are the basic silver currency of the realm. What is the main reason you adventure? Crippling debt. Your group of adventurers are $10,000$ coins in [[Equipment & Services/Adventurer's Guild#Company Debt\|debt]].
 How did you get there? You screwed up your last job!
->[!Summary] Step 2
+>[!Summary] Step 3
 >- Roll $d6 \times 10$ for your delver's starting coin. 
 >- Based on your HP and Coin, figure out your past [[Characters/Failed Career\|Failed Career]].
 # Starting equipment
 Your delver carries items in [[Equipment & Services/Inventory\|Inventory]] slots. Most items take up one inventory slot. Some larger items, such as two-handed weapons and armour take up two slots. This isn't Skyrim or Minecraft where you can carry a near-infinite amount of material with you!
->[!Summary] Step 3
+>[!Summary] Step 4
 >Your delver starts with:
 >- **Torches**
 >- **Rations**
@@ -40,7 +40,7 @@ Your delver carries items in [[Equipment & Services/Inventory\|Inventory]] slots
 >>If your delver’s highest Ability Score is 9 or less, your character starts off with an [[Treasures/Artifacts/Artifacts\|Artifact]].
 
 # Details
->[!Summary] Step 4
+>[!Summary] Step 5
 >For the sake of fleshing out your character and roleplay, roll a [[Characters/Flesh Out your Character#Motto\|motto]], [[Characters/Flesh Out your Character#Physical Detail\|physical detail]], [[Characters/Flesh Out your Character#Reason Delving\|reason for delving]], [[Characters/Bonds\|bond]], and a [[Characters/Flesh Out your Character#Name\|name]].
 
 # Finished Everything?
